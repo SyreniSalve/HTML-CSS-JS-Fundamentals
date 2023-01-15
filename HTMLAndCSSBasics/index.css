@@ -2,7 +2,7 @@ h1 {
     color: red;
     font-size: 18px;
     font-weight: bold;
-    padding: 5px;
+    padding: 5px 0;
 }
 
 h2 {
@@ -10,14 +10,14 @@ h2 {
     font-size: 16px;
     font-style: italic;
     font-weight: normal;
-    padding: 3px;
+    padding: 3px 0;
 }
 
 h3 {
     color: white;
     background-color: black;
     font-size: 15px;
-    padding: 2px;
+    padding: 2px 0;
 }
 
 p {
