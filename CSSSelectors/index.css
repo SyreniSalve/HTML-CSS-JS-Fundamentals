@@ -1,0 +1,17 @@
+#box-with-id {
+    border: solid 1px red;
+    padding: 10px;
+}
+
+p {
+    border: solid 1px blue;
+    padding: 10px;
+}
+
+.span {
+    border: solid 1px purple;
+}
+
+[data-attribute] {
+    border: solid 1px green;
+}
