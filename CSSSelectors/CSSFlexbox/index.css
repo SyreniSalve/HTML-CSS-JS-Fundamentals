@@ -1,0 +1,42 @@
+h1 {
+    font-size: 1.6em;
+}
+
+.box {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 20px 300px;
+}
+
+.another-box {
+    height: 50px;
+    padding: 10px 15px;
+    margin: 20px
+}
+
+.second-boxes-group {
+    display: flex;
+    flex-direction: row;
+}
+
+#box-one {
+    background-color: lightpink;
+}
+
+#box-two {
+    background-color: lightcyan;
+}
+
+#box-three {
+    background-color: lightsalmon;
+}
+
+#box-four {
+    background-color: rosybrown;
+}
+
+#box-five {
+    background-color: palevioletred;
+}
