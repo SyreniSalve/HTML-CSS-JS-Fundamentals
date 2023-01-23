@@ -1,0 +1,28 @@
+.box {
+    height: 50px;
+}
+
+#box-one {
+    background-color: #6495ED;
+    margin-bottom: 10px;
+}
+
+#box-two {
+    background-color: #B0E0E6;
+    margin: 12px 10px 5px 7px;
+}
+
+#box-three {
+    background-color: #8B008B;
+    margin: 10px 5px 7px;
+}
+
+#box-four {
+    background-color: #FFE4E1;
+    padding: 10px 12px;
+}
+
+#box-five {
+    background-color: #F08080;
+    padding: 20px;
+}
